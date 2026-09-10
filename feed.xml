@@ -12,6 +12,12 @@
     <itunes:summary>Private personal listening feed.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
+    <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover.jpg"/>
+    <image>
+      <url>https://tinkerbox-os.github.io/lf-audio/media/cover.jpg</url>
+      <title>Listening Feed</title>
+      <link>https://tinkerbox-os.github.io/lf-audio/</link>
+    </image>
     <atom:link href="https://tinkerbox-os.github.io/lf-audio/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>How To Sell Anything To Anyone (3 Sales Within Every Sale)</title>
@@ -20,6 +26,7 @@
       <pubDate>Wed, 10 Sep 2026 20:58:00 +0000</pubDate>
       <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/how-to-sell-anything-3-sales.mp3" length="14402016" type="audio/mpeg"/>
       <itunes:duration>40:00</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-3-sales.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -29,6 +36,7 @@
       <pubDate>Thu, 11 Sep 2026 00:10:00 +0000</pubDate>
       <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/marketing-philosophy-jay-yang.mp3" length="6427728" type="audio/mpeg"/>
       <itunes:duration>17:51</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-marketing-philosophy.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -38,6 +46,7 @@
       <pubDate>Thu, 11 Sep 2026 00:11:00 +0000</pubDate>
       <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/how-to-fix-your-entire-life-in-1-day.mp3" length="11333376" type="audio/mpeg"/>
       <itunes:duration>31:28</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-life-in-1-day.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -47,6 +56,7 @@
       <pubDate>Mon, 08 Sep 2026 21:43:00 +0000</pubDate>
       <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/how-to-fix-your-entire-life-in-1-day-overview.mp3" length="1601856" type="audio/mpeg"/>
       <itunes:duration>4:26</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-life-in-1-day-overview.jpg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

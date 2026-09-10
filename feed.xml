@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gautam Listening</title>
+    <link>https://tinkerbox-os.github.io/gautam-listening/</link>
+    <language>en-gb</language>
+    <copyright>Personal listening copies — not for redistribution</copyright>
+    <description>Private personal listening feed for Gautam. Audio overviews and article read-throughs.</description>
+    <itunes:author>Gautam</itunes:author>
+    <itunes:summary>Private personal listening feed.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Education"/>
+    <atom:link href="https://tinkerbox-os.github.io/gautam-listening/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How To Sell Anything To Anyone (3 Sales Within Every Sale)</title>
+      <description>Full read-through of Dickie Bush’s X article for personal listening.</description>
+      <guid isPermaLink="false">gautam-listening-dickie-bush-3-sales-2026-09-10</guid>
+      <pubDate>Wed, 10 Sep 2026 20:58:00 +0000</pubDate>
+      <enclosure url="https://tinkerbox-os.github.io/gautam-listening/media/how-to-sell-anything-3-sales.mp3" length="14402016" type="audio/mpeg"/>
+      <itunes:duration>40:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>How to Fix Your Entire Life in 1 Day — Overview</title>
+      <description>Short audio overview of Dan Koe’s article for personal listening.</description>
+      <guid isPermaLink="false">gautam-listening-dan-koe-overview-2026-09-08</guid>
+      <pubDate>Mon, 08 Sep 2026 21:43:00 +0000</pubDate>
+      <enclosure url="https://tinkerbox-os.github.io/gautam-listening/media/how-to-fix-your-entire-life-in-1-day-overview.mp3" length="1601856" type="audio/mpeg"/>
+      <itunes:duration>4:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

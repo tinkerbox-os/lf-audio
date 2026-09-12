@@ -20,6 +20,16 @@
     </image>
     <atom:link href="https://tinkerbox-os.github.io/lf-audio/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>The Mastery of Learning: How to Absorb Knowledge Like a Superhuman</title>
+      <description>Full read-through of Cipher’s free X article (public cut) for personal listening.</description>
+      <guid isPermaLink="false">lf-audio-cipher-mastery-of-learning-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 16:15:41 +0000</pubDate>
+      <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/mastery-of-learning.mp3" length="5035104" type="audio/mpeg"/>
+      <itunes:duration>13:59</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-mastery-of-learning.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>How To Sell Anything To Anyone (3 Sales Within Every Sale)</title>
       <description>Full read-through of Dickie Bush’s article for personal listening.</description>
       <guid isPermaLink="false">lf-audio-dickie-bush-3-sales-2026-09-10</guid>

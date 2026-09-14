@@ -20,6 +20,16 @@
     </image>
     <atom:link href="https://tinkerbox-os.github.io/lf-audio/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>You Need to Be Delusional If You Want to Succeed</title>
+      <description>Full read-through of Dan Koe’s article for personal listening.</description>
+      <guid isPermaLink="false">lf-audio-dan-koe-delusional-goals-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 19:49:51 +0000</pubDate>
+      <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/delusional-goals.mp3" length="5994720" type="audio/mpeg"/>
+      <itunes:duration>16:39</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-delusional-goals.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Mastery of Learning: How to Absorb Knowledge Like a Superhuman</title>
       <description>Full read-through of Cipher’s free X article (public cut) for personal listening.</description>
       <guid isPermaLink="false">lf-audio-cipher-mastery-of-learning-2026-09-12</guid>

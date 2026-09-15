@@ -20,6 +20,16 @@
     </image>
     <atom:link href="https://tinkerbox-os.github.io/lf-audio/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>How to Articulate Yourself Intelligently</title>
+      <description>Full read-through of Dan Koe’s article for personal listening.</description>
+      <guid isPermaLink="false">lf-audio-dan-koe-articulate-yourself-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 16:25:41 +0000</pubDate>
+      <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/articulate-yourself.mp3" length="6253344" type="audio/mpeg"/>
+      <itunes:duration>17:22</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-articulate-yourself.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>You Need to Be Delusional If You Want to Succeed</title>
       <description>Full read-through of Dan Koe’s article for personal listening.</description>
       <guid isPermaLink="false">lf-audio-dan-koe-delusional-goals-2026-09-14</guid>

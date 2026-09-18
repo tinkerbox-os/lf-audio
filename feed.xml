@@ -19,6 +19,18 @@
       <link>https://tinkerbox-os.github.io/lf-audio/</link>
     </image>
     <atom:link href="https://tinkerbox-os.github.io/lf-audio/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>The rise of the knowledge engineer</title>
+      <description>Full read-through of Hahnbee Lee’s article for personal listening.</description>
+      <guid isPermaLink="false">lf-audio-rise-of-the-knowledge-engineer-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 17:24:41 +0000</pubDate>
+      <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/rise-of-the-knowledge-engineer.mp3" length="2784096" type="audio/mpeg"/>
+      <itunes:duration>7:44</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-rise-of-the-knowledge-engineer.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <item>
       <title>How to Automate Your Whole Business With Claude</title>
       <description>Full read-through of Mr. Systems’ article for personal listening.</description>

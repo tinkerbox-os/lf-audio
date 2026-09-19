@@ -21,6 +21,17 @@
     <atom:link href="https://tinkerbox-os.github.io/lf-audio/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>How to get rich with taste when everything else is slop</title>
+      <description>Full read-through of Machina’s article for personal listening.</description>
+      <guid isPermaLink="false">lf-audio-get-rich-with-taste-2026-09-19</guid>
+      <pubDate>Sat, 19 Sep 2026 17:19:03 +0000</pubDate>
+      <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/get-rich-with-taste.mp3" length="3136896" type="audio/mpeg"/>
+      <itunes:duration>8:43</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-get-rich-with-taste.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>The rise of the knowledge engineer</title>
       <description>Full read-through of Hahnbee Lee’s article for personal listening.</description>
       <guid isPermaLink="false">lf-audio-rise-of-the-knowledge-engineer-2026-09-18</guid>

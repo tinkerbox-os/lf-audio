@@ -21,6 +21,17 @@
     <atom:link href="https://tinkerbox-os.github.io/lf-audio/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>How to become disgustingly self-disciplined</title>
+      <description>Full read-through of DAN KOE’s article for personal listening.</description>
+      <guid isPermaLink="false">lf-audio-disgustingly-self-disciplined-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 17:14:55 +0000</pubDate>
+      <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/disgustingly-self-disciplined.mp3" length="6081408" type="audio/mpeg"/>
+      <itunes:duration>16:53</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-disgustingly-self-disciplined.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>How to get rich with taste when everything else is slop</title>
       <description>Full read-through of Machina’s article for personal listening.</description>
       <guid isPermaLink="false">lf-audio-get-rich-with-taste-2026-09-19</guid>

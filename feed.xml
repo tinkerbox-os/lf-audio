@@ -21,6 +21,17 @@
     <atom:link href="https://tinkerbox-os.github.io/lf-audio/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Expert Call | InP Market Research</title>
+      <description>Full read-through of P Equity Research’s post for personal listening.</description>
+      <guid isPermaLink="false">lf-audio-inp-market-research-2026-09-24</guid>
+      <pubDate>Thu, 24 Sep 2026 17:05:38 +0000</pubDate>
+      <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/inp-market-research.mp3" length="1197072" type="audio/mpeg"/>
+      <itunes:duration>3:20</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-inp-market-research.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>Optimized About Us Page</title>
       <description>Full read-through of Rob Hoffman’s post for personal listening.</description>
       <guid isPermaLink="false">lf-audio-about-us-page-2026-09-23</guid>

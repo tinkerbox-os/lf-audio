@@ -21,6 +21,18 @@
     <atom:link href="https://tinkerbox-os.github.io/lf-audio/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>xAI will win</title>
+      <description>Full read-through of Shaun Maguire’s article for personal listening.</description>
+      <guid isPermaLink="false">lf-audio-xai-will-win-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 17:08:32 +0000</pubDate>
+      <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/xai-will-win.mp3" length="7846272" type="audio/mpeg"/>
+      <itunes:duration>21:47</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-xai-will-win.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+
+    <item>
       <title>Expert Call | InP Market Research</title>
       <description>Full read-through of P Equity Research’s post for personal listening.</description>
       <guid isPermaLink="false">lf-audio-inp-market-research-2026-09-24</guid>

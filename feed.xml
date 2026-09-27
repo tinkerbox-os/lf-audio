@@ -21,6 +21,18 @@
     <atom:link href="https://tinkerbox-os.github.io/lf-audio/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>$5T opportunity: AI Roll Ups</title>
+      <description>Full read-through of Greg Isenberg’s article for personal listening.</description>
+      <guid isPermaLink="false">lf-audio-ai-roll-ups-2026-09-27</guid>
+      <pubDate>Sun, 27 Sep 2026 20:38:25 +0000</pubDate>
+      <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/ai-roll-ups.mp3" length="6986592" type="audio/mpeg"/>
+      <itunes:duration>19:24</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-ai-roll-ups.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+
+    <item>
       <title>xAI will win</title>
       <description>Full read-through of Shaun Maguire’s article for personal listening.</description>
       <guid isPermaLink="false">lf-audio-xai-will-win-2026-09-25</guid>

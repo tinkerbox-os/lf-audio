@@ -21,6 +21,18 @@
     <atom:link href="https://tinkerbox-os.github.io/lf-audio/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Muse studied 268,117 apps doing $10k/mo+ for me. The method is stupidly easy</title>
+      <description>Full read-through of David Ch’s article for personal listening.</description>
+      <guid isPermaLink="false">lf-audio-muse-apps-10k-mo-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 17:17:37 +0000</pubDate>
+      <enclosure url="https://tinkerbox-os.github.io/lf-audio/media/muse-apps-10k-mo.mp3" length="9160272" type="audio/mpeg"/>
+      <itunes:duration>25:26</itunes:duration>
+      <itunes:image href="https://tinkerbox-os.github.io/lf-audio/media/cover-muse-apps-10k-mo.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+
+    <item>
       <title>$5T opportunity: AI Roll Ups</title>
       <description>Full read-through of Greg Isenberg’s article for personal listening.</description>
       <guid isPermaLink="false">lf-audio-ai-roll-ups-2026-09-27</guid>
